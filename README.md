@@ -1,2 +1,3 @@
 # MTA-STS-StaticWebApp
-Project uploading mta-sts with GIthubActions
+
+[MTA-STS](https://datatracker.ietf.org/doc/html/rfc8461) Single Page Application with GitHub Actions
