@@ -6,7 +6,7 @@
     },
     {
       "route": "/*",
-      "redirect": "/mta-sts.txt",
+      "redirect": ".well-known/mta-sts.txt",
       "statusCode": 301
     }
   ]
